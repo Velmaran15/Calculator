@@ -33,3 +33,11 @@ A simple, user-friendly calculator web app built using **HTML**, **CSS**, and **
 <img width="1440" alt="Screenshot" src="https://github.com/user-attachments/assets/5ed9857e-d77c-4f31-9873-93d31be81021" />
 
 ---
+
+## 🧑‍💻 How to Run Locally
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/calculator-app.git
+
+---
