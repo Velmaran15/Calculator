@@ -30,7 +30,6 @@ A simple, user-friendly calculator web app built using **HTML**, **CSS**, and **
 
 ## 📸 Screenshots
 
-_Add a screenshot of your calculator UI here for better presentation._
+<img width="1440" alt="Screenshot" src="https://github.com/user-attachments/assets/5ed9857e-d77c-4f31-9873-93d31be81021" />
 
-
-![Calculator Screenshot](assets/screenshot.png)
+---
